@@ -1,0 +1,8 @@
+pymongo
+mysql-connector-python
+psycopg2
+dnspython>=1.16.0
+pytest>=5.3.5
+logger>=1.4
+twine>=3.4.1
+pydantic>=2.7.1
